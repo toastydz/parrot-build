@@ -1,6 +1,6 @@
 ---
 - name: "Installing tools from Gems"
-  gem:
+  community.general.gem:
     name: "{{ item }}"
     state: latest
   loop:
