@@ -1,4 +1,4 @@
-Pulled and slightly modified from [ippsec](https://github.com/IppSec/parrot-build).</br>
+Pulled and modified from [ippsec](https://github.com/IppSec/parrot-build).</br>
 ** Make sure to pip install ansible, apt has an older copy **
 
 
