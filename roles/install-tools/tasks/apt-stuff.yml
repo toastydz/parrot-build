@@ -18,6 +18,7 @@
       - flameshot
       - exiftool
       - mlocate
+      - python2
     state: latest
   become: true
   become_method: sudo
